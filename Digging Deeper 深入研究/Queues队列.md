@@ -1,0 +1,32 @@
+﻿
+# Queues
+
+
+
+-   [引言](https://laravel.com/docs/6.x/queues#introduction)
+    -   [连接 Vs. 队列](https://laravel.com/docs/6.x/queues#connections-vs-queues)
+    -   [驱动程序说明和先决条件](https://laravel.com/docs/6.x/queues#driver-prerequisites)
+-   [创建任务类](https://laravel.com/docs/6.x/queues#creating-jobs)
+    -   [生成任务类](https://laravel.com/docs/6.x/queues#generating-job-classes)
+    -   [任务类结构](https://laravel.com/docs/6.x/queues#class-structure)
+    -   [任务类中间件](https://laravel.com/docs/6.x/queues#job-middleware)
+-   [分发任务](https://laravel.com/docs/6.x/queues#dispatching-jobs)
+    -   [延迟分发](https://laravel.com/docs/6.x/queues#delayed-dispatching)
+    -   [同步调度](https://laravel.com/docs/6.x/queues#synchronous-dispatching)
+    -   [工作链](https://laravel.com/docs/6.x/queues#job-chaining)
+    -   [自定义队列 & 连接](https://laravel.com/docs/6.x/queues#customizing-the-queue-and-connection)
+    -   [指定任务最大尝试次数 / 超时值](https://laravel.com/docs/6.x/queues#max-job-attempts-and-timeout)
+    -   [访问限制](https://laravel.com/docs/6.x/queues#rate-limiting)
+    -   [Error Handling](https://laravel.com/docs/6.x/queues#error-handling)
+-   [Queueing Closures](https://laravel.com/docs/6.x/queues#queueing-closures)
+-   [Running The Queue Worker](https://laravel.com/docs/6.x/queues#running-the-queue-worker)
+    -   [Queue Priorities](https://laravel.com/docs/6.x/queues#queue-priorities)
+    -   [Queue Workers & Deployment](https://laravel.com/docs/6.x/queues#queue-workers-and-deployment)
+    -   [Job Expirations & Timeouts](https://laravel.com/docs/6.x/queues#job-expirations-and-timeouts)
+-   [Supervisor Configuration](https://laravel.com/docs/6.x/queues#supervisor-configuration)
+-   [Dealing With Failed Jobs](https://laravel.com/docs/6.x/queues#dealing-with-failed-jobs)
+    -   [Cleaning Up After Failed Jobs](https://laravel.com/docs/6.x/queues#cleaning-up-after-failed-jobs)
+    -   [Failed Job Events](https://laravel.com/docs/6.x/queues#failed-job-events)
+    -   [Retrying Failed Jobs](https://laravel.com/docs/6.x/queues#retrying-failed-jobs)
+    -   [Ignoring Missing Models](https://laravel.com/docs/6.x/queues#ignoring-missing-models)
+-   [Job Events](https://laravel.com/docs/6.x/queues#job-events)
