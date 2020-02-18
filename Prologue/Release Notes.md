@@ -50,6 +50,26 @@ vapor
  
 accept 接受
 
+execute 执行
+cute 可爱
+
+
+conveniently 方便地
+conveniently
+
+process 处理
+program 程序
+
+
+conflict 冲突
+
+
+## 副词
+
+newly 新
+
+
+---
 
 
 instance 实例
@@ -69,7 +89,8 @@ disregard 漠视
 
 instructions 指示
 
-
+undocumented 记录
+document 文献
 
 ---
 
